@@ -1,6 +1,6 @@
-# In my mind I only see equations...  
+![](https://github.com/defineEuclidian/defineEuclidian/blob/main/Cwgf.gif)  
 
-![](https://github.com/defineEuclidian/defineEuclidian/blob/main/Cwgf.gif)
+
 
 <!--
 **defineEuclidian/defineEuclidian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
