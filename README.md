@@ -1,4 +1,4 @@
-!(https://i.gifer.com/Cwgf.gif)
+![Math](https://i.gifer.com/Cwgf.gif)
 
 # In my mind I only see equations...
 
