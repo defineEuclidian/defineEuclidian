@@ -1,6 +1,6 @@
-![Math](https://i.gifer.com/Cwgf.gif)
+# In my mind I only see equations...  
 
-# In my mind I only see equations...
+![Math](https://i.gifer.com/Cwgf.gif)
 
 <!--
 **defineEuclidian/defineEuclidian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
