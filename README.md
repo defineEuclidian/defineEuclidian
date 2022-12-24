@@ -1,6 +1,4 @@
-![](https://github.com/defineEuclidian/defineEuclidian/blob/main/Cwgf.gif)  
-
-
+### Test
 
 <!--
 **defineEuclidian/defineEuclidian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
